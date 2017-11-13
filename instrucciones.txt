@@ -1,0 +1,10 @@
+cuenta de administrador del sistema
+usuario: armando
+contraseña: admin
+
+cuenta de phpmyadmin
+usuario:admin
+contraseña:root
+
+
+Funciona todo el menu de administrador y empleado
